@@ -1,0 +1,19 @@
+{
+	"name": "ddsc-schematics-workspace-example",
+	"type": [
+		"terraform_v1.4"
+	],
+	"location": "us-east",
+	"resource_group": "Default",
+	"description": "",
+	"tags": ["DDSC"],
+	"template_repo": {
+		"url": "https://github.com/kongoyo/IaC_example"
+	},
+	"template_data": [
+		{
+			"folder": ".",
+			"type": "terraform_v1.4"
+		}
+	]
+}
