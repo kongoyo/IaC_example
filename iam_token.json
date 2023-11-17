@@ -1,0 +1,14 @@
+{
+    "id": "ApiKey-12c08996-b390-4cb9-816a-ea28fd945aa8",
+    "crn": "crn:v1:bluemix:public:iam-identity::a/00f3c65730f1409cbce0dea1a6a1a692F-1821103F::apikey:ApiKey-12c08996-b390-4cb9-816a-ea28fd945aa8",
+    "iam_id": "IBMid-270001CCMR",
+    "account_id": "00f3c65730f1409cbce0dea1a6a1a692",
+    "name": "TerraformKey",
+    "description": "API Key for Terraform",
+    "apikey": "",
+    "locked": false,
+    "entity_tag": "1-3ee1e9d61b25763b650f4321b42370ca",
+    "created_at": "2023-11-16T09:20+0000",
+    "created_by": "IBMid-270001CCMR",
+    "modified_at": "2023-11-16T09:20+0000"
+}
