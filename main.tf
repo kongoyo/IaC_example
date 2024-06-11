@@ -2,7 +2,7 @@ terraform {
   required_providers {
     ibm = {
       source  = "IBM-Cloud/ibm"
-      version = "1.40.0" # 確保您使用的是最新版本
+      version >= "1.40.0" # 確保您使用的是最新版本
     }
   }
 }
